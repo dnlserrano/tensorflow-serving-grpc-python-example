@@ -1,0 +1,7 @@
+tfserving_grpc_py/__init__.py
+tfserving_grpc_py/app.py
+tfserving_grpc_py.egg-info/PKG-INFO
+tfserving_grpc_py.egg-info/SOURCES.txt
+tfserving_grpc_py.egg-info/dependency_links.txt
+tfserving_grpc_py.egg-info/requires.txt
+tfserving_grpc_py.egg-info/top_level.txt

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tfserving-grpc-py"
+version = "0.1.0"
+description = ""
+authors = ["Daniel José Domingos Serrano <danieljdserrano@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+tensorflow = "*"
+tensorflow-serving-api = "*"
+numpy = "*"
+pillow = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
